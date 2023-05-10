@@ -1,0 +1,139 @@
+
+.navTop .nav-link:last-child {
+  color: green;
+}
+
+.navTop .nav-link:last-child:hover {
+  background-color: green;
+  color: white;
+  border-radius: 5px;
+}
+
+.carousel-texto {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 50%;
+    padding: 1.25rem;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #ffffff;
+    text-align: right;
+    font-size: 16px;
+  }
+  
+  @media only screen and (max-width: 500px) {
+    .carousel-texto {
+    left: 0;
+    padding: 1.25rem;  
+    font-size: 12px;
+      }
+    }
+  
+  .carousel-texto h3 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+  }
+  
+  @media only screen and (max-width: 500px) {
+    .carousel-texto h3 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;  
+    font-size: 15px;
+      }
+    }
+  
+  .carousel-texto p {
+    margin-bottom: 0;
+  }
+  
+  .btn-transparent {
+    background-color: transparent;
+    border-color: #ffffff;
+  }
+  
+  @media only screen and (max-width: 500px) {
+    .btn-transparent {
+    font-size: 12px;
+    padding: 5px 12px;
+    }
+    }
+
+
+  .btn-green {
+    background-color: green;
+    border-color: green;
+   }
+ 
+  .btn-green:hover {
+    background-color: #1ac23e;
+    border-color: #1ac23e;
+  }
+
+  @media only screen and (max-width: 500px) {
+  .btn-green {
+  font-size: 12px;
+  padding: 5px 12px;
+  }
+  }
+  
+
+  .btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  
+  .btn-success:hover {
+    background-color: #1ac23e;
+    border-color: #1ac23e;
+  }
+  .centrado {
+    text-align: center;
+  }  
+  
+  #mitad-gris {
+    background-color: #2f3133;
+    color: #fff;
+    height: 72vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+  }
+  #titulo {
+    position: relative;
+    font-size: 25px;
+    margin-bottom: 2%;
+    text-align: left;
+    padding: 2%;
+
+  }
+  #parrafo {
+    position: relative;
+    font-size: 14px;
+    text-align: left;
+    bottom: 5%;
+    padding: 2%;
+  }
+
+  .caja {
+    position: absolute;
+    top: 40%;
+    padding: 10px;
+  }
+
+  .navFooter .navbar-nav .nav-link {
+    margin-right: 15px;
+    margin-left: 15px;
+    padding: 5px;
+  }
+
+  .navbar-color {
+  background-color: #04182bfd;
+  color: #fff;
+
+  }
+
+  .navFooter {
+    height: 55px;
+  }
+  
