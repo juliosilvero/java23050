@@ -62,7 +62,7 @@
   }
 
  
-  @media only screen and (max-width: 500px) {
+  @media only screen and (max-width: 600px) {
     .btn-transparent {
     font-size: 12px;
     padding: 5px 12px;
@@ -81,7 +81,7 @@
     border-color: #1ac23e;
   }
   
-  @media only screen and (max-width: 500px) {
+  @media only screen and (max-width: 600px) {
   .btn-green {
   font-size: 12px;
   padding: 5px 12px;
