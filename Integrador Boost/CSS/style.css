@@ -22,7 +22,7 @@
     z-index: 2;
   }
   
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 700px) {
     .carousel-texto {
     left: 0;
     padding: 1.25rem;  
@@ -35,7 +35,7 @@
     margin-bottom: 0.5rem;
   }
   
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 700px) {
     .carousel-texto h3 {
     margin-top: 0;
     margin-bottom: 0.5rem;  
@@ -62,7 +62,7 @@
   }
 
  
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 700px) {
     .btn-transparent {
     font-size: 12px;
     padding: 5px 12px;
@@ -81,7 +81,7 @@
     border-color: #1ac23e;
   }
   
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 700px) {
   .btn-green {
   font-size: 12px;
   padding: 5px 12px;
