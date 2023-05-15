@@ -1,5 +1,6 @@
-# java23050
+# Comisión 23050
 
-## Hola soy Julio
+## Soy Julio Silvero
 
-Texto ejemplo # CursoJava23050
+Trabajo integrador de los visto en el curso, HTML5, CSS, Bootstrap, GitHub.
+El trabajo consiste en replicar una página. 
